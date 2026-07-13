@@ -1,8 +1,8 @@
-# Hi there, I'm Phạm Thế Sơn 👋
+# Hi there, I'm Đặng Quang Khải 👋
 
 <!-- Hiệu ứng gõ chữ (Typing SVG) -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=276DC3&width=435&lines=Backend+Developer;Aspiring+Game+Designer;C%23+%7C+.NET+%7C+Python;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=276DC3&width=435&lines=Game+Designer;Aspiring+Game+Designer;Java+Python;Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
 <br/>
